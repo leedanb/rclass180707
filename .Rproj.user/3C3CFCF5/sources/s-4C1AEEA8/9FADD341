@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531529130850.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9FADD341",
+    "lastKnownWriteTime" : 1531529159,
+    "last_content_update" : 1531529159848,
+    "path" : "C:/R/project180707/rlan180714.R",
+    "project_path" : "rlan180714.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
